@@ -1,6 +1,6 @@
 ### print('OLÁ, MUNDO!') 👋 
 
-Imerso no universo da comunicação digital há mais de 10 anos. Graduando em Análise e Desenvolvimento de Sistemas. Dedicado ao desenvolvimento back-end e front-end ; entusiasta de Python e análise de dados.
+Imerso no universo da comunicação digital há mais de 10 anos. Graduando em Análise e Desenvolvimento de Sistemas. Dedicado ao desenvolvimento back-end e front-end ; entusiasta da Análise de dados.
 
 ### 🌱 Em constante estado de aprendizado
 
